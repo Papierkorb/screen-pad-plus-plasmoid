@@ -1,0 +1,1 @@
+SUBSYSTEM=="module", KERNEL=="asus_nb_wmi", ACTION=="add", RUN+="/usr/bin/chmod ugo+w /sys/class/leds/asus::screenpad/brightness"
