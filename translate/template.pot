@@ -1,0 +1,25 @@
+# ../contents/ui/DialogBody.qml:                text: i18n("Disabled")
+msgid "Disabled"
+msgstr ""
+
+#../contents/ui/DialogBody.qml:                text: i18n("Blind")
+msgid "Blind"
+msgstr ""
+
+#../contents/ui/DialogBody.qml:                text: i18n("Active")
+msgid "Active"
+msgstr ""
+
+#../contents/ui/main.qml:    Plasmoid.toolTipMainText: i18n("Screen Pad+")
+msgid "Screen Pad+"
+msgstr "Screen Pad+"
+
+#../contents/ui/main.qml:    Plasmoid.toolTipSubText: dialogBody.mode == 0 ? i18n("Display is turned off") : dialogBody.mode == 1 ? i18n("Display is active, but blind") : i18n("Display is active")
+msgid "Display is turned off"
+msgstr ""
+
+msgid "Display is active, but blind"
+msgstr ""
+
+msgid "Display is active"
+msgstr ""

@@ -1,0 +1,26 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "Stefan@Merettig.io",
+                "Name": "Stefan Merettig"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Control your Screen Pad+",
+        "Description[de]": "Steuerung für dein Screen Pad+",
+        "Icon": "kbugbuster",
+        "Id": "io.merettig.asus-zenbook-pro-duo.screen-pad-plus",
+        "License": "LGPLv2+",
+        "Name": "Screen Pad+ Control",
+        "Name[de]": "Screen Pad+ Steuerung",
+        "Version": "1.0",
+        "Website": "https://github.com/Papierkorb/screen-pad-plus-plasmoid",
+        "EnabledByDefault": true
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
